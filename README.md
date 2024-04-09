@@ -11,9 +11,8 @@ Hold <kbd>Left Control</kbd> to trigger the normal <kbd>Control</kbd> functional
 
 <details> <summary>Configuration</summary>
 
-```
-https://github.com/27Aaron/karabiner/blob/main/assets/json/control_and_capslock.json
-```
+- https://github.com/27Aaron/karabiner/blob/main/assets/json/control_and_capslock.json
+
 </details>
 
 ## F19
@@ -21,7 +20,6 @@ https://github.com/27Aaron/karabiner/blob/main/assets/json/control_and_capslock.
 
 <details> <summary>Configuration</summary>
 
-```
-https://github.com/27Aaron/karabiner/blob/main/assets/json/f19.json
-```
+- https://github.com/27Aaron/karabiner/blob/main/assets/json/f19.json
+
 </details>
